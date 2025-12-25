@@ -1,8 +1,10 @@
 # Smart-Elevator-Service-Management-System-Company
 The main goal of this project is to design a smart and user-friendly Software-based system that helps people easily book elevator installation, repair, or maintenance services online.  Through this system, users can quickly connect with available technicians, track their service status in real-time, make payments and give feedback after service.
 
+
 Requirements from the " Smart Elevator Service & Management System Company"
 The elevator company aims to modernize and expand its service management by implementing a smart web-based system. They require a platform that allows customers to book elevator installation or repair services online, track technician status, view service history, receive real-time notifications, and make secure payments. The company also wants an admin panel to manage service requests, assign technicians based on location and availability, monitor performance, and generate business analytics reports to improve service delivery and customer satisfaction.
+
 
 Summary of Key Requirements:
 1. Online service booking (installation/repair/maintenance).
@@ -13,6 +15,7 @@ Summary of Key Requirements:
 6. Admin dashboard for managing technicians and services.
 7. Reports and analytics for business growth.
 8. Customer feedback and rating system.
+
 
 
 Requirement Analysis
@@ -38,6 +41,7 @@ Admin can manage users, services, technicians, and view overall performance repo
 The system generates monthly and yearly reports about service statistics and technician performance.
 9.	Customer Feedback and Rating:
 After service completion, users can rate and review their experience to help improve quality.
+
 
 
 ii. Non-Functional Requirements
