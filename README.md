@@ -61,6 +61,9 @@ The interface should be easy for all types of users to understand and operate.
 The code will be modular so that future updates and bug fixes can be done easily.
 
 # Author & Contact 
+
 Apu Chandra Sutradhar
+
 Computer Science and Engineering Student
+
 📩 Email: apus.cse@gmail.com
