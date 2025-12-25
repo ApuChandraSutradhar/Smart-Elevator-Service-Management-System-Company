@@ -4,7 +4,7 @@ The main goal of this project is to design a smart and user-friendly Software-ba
 
 # User Home Interface 
 
-  <img src="assets/images/uhi.png" alt="Interface" style="width: 800px; margin-bottom: 360px;">
+  <img src="assets/images/uhi.png" alt="Interface" style="width: 800px; margin-bottom: 340px;">
 
 
 # Requirements from the " Smart Elevator Service & Management System Company"
